@@ -1,7 +1,11 @@
+<div align="center">
+
 ![Model Type](https://img.shields.io/badge/Model-1D--CNN-blue)
 ![Accuracy](https://img.shields.io/badge/Accuracy-97.17%25-success)
 ![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%2F%20Keras-orange)
 ![Domain](https://img.shields.io/badge/Domain-Biomedical%20AI-red)
+
+</div>
 # Ventricula ML: Deep Learning for Clinical ECG Arrhythmia Classification
 
 This project implements an end-to-end machine learning pipeline to automate the detection and classification of cardiac arrhythmias from single-lead ECG signals. Manual analysis of continuous ECG time-series data is incredibly time-consuming and prone to human fatigue. This pipeline solves that by using a deep learning architecture to extract spatial morphology features from raw biopotentials, providing instant, clinical-grade diagnostics.
